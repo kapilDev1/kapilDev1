@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Kapil Dev
 
-<!--
-**kapilDev1/kapilDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Associate Architect | Data Engineer | Full-Stack Developer**  
+🎓 MNNIT Allahabad | 🏆 Tech Consultant of the Year | 💡 Hackathon Finalist  
 
-Here are some ideas to get you started:
+I’m a builder at heart — with 5+ years of experience in data engineering and automation.  
+Currently working with SSIS, SQL Server, Python, and Airflow to build reliable, scalable data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 Also love building apps using Django and MERN stack  
+- 📊 Data modeling, APIs, automation – you name it  
+- 📚 Practicing DSA on LeetCode daily, exploring Java and Airflow  
+- 🏆 Recognized as “Tech Consultant of the Year” at o9 (out of 100s!)
+
+> Let’s connect and collaborate on clean, scalable, impactful tech ✨
