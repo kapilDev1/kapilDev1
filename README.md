@@ -3,12 +3,13 @@
 🚀 **Associate Architect | Data Engineer | Full-Stack Developer**  
 🎓 MNNIT Allahabad | 🏆 Tech Consultant of the Year | 💡 Hackathon Finalist  
 
-I’m a builder at heart — with 5+ years of experience in data engineering and automation.  
-Currently working with SSIS, SQL Server, Python, and Airflow to build reliable, scalable data solutions.
+Hi there! I’m a passionate engineer with 5+ years of experience designing scalable ETL pipelines, optimizing data workflows, and building full-stack applications.
 
-- 🛠 Also love building apps using Django and MERN stack  
-- 📊 Data modeling, APIs, automation – you name it  
-- 📚 Practicing DSA on LeetCode daily, exploring Java and Airflow  
-- 🏆 Recognized as “Tech Consultant of the Year” at o9 (out of 100s!)
+- 🛠 Working extensively with **SSIS, SQL Server, Python, and Airflow**
+- 🌐 On the side, I craft tools and apps using the **MERN stack & Django**
+- 📊 Love solving data problems, building APIs, and making systems run smoother
+- ⚙️ Strong believer in **automation, clean architecture, and continuous learning**
+- 📚 Practicing **DSA daily on LeetCode**, learning **Java & Airflow**
+- 🏅 Awarded **Technical Consultant of the Year** at o9 Solutions (chosen from 100s!)
 
 > Let’s connect and collaborate on clean, scalable, impactful tech ✨
